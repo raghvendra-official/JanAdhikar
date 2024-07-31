@@ -169,7 +169,7 @@ body {
   max-width: 100%;
 }
 .div-9 {
-  background-image: url("Group 2609316.png");
+  background-image: URL("./img/Group 2609316.png");
   background-size: contain;
   align-self: stretch;
   display: flex;
